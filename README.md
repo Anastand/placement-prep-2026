@@ -1,4 +1,10 @@
 # placement-prep-2026
-> archiving my placement prep from zero to placement
+
+> Archiving my placement prep from zero to placement.
+
 ---
-## FEB
+
+## February 2026
+
+- [Two Sum](/feb-26/twoPointers.md) - Easy - Hash Map, Two Pointers
+
